@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:15:57.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1dWL5sqvivHdUOJVAD4y" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:16:13.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ka0stjGPvBH7wDZUIYOK" version="20.0.4" type="github">
   <diagram id="DroYmTfxJ4gSrrLz_aU5" name="第 1 页">
     <mxGraphModel dx="1018" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="AYJwS5AMs9tBULYq_kzT-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AYJwS5AMs9tBULYq_kzT-34" target="AYJwS5AMs9tBULYq_kzT-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AYJwS5AMs9tBULYq_kzT-34" value="参照快照，生成 k8s 各资源对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" vertex="1" parent="1">
+        <mxCell id="AYJwS5AMs9tBULYq_kzT-34" value="参照快照，生成 k8s 资源对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AYJwS5AMs9tBULYq_kzT-58" value="" style="group" vertex="1" connectable="0" parent="1">
