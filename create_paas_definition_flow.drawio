@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T07:12:55.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wVFvdrctsYm1KK1wi5rg" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T07:13:57.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="y9U63U48uiBOfcZYbCut" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1018" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="mfCW85XGPxWeuTzVzOlY-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FhPh060SghVVRv-6aTag-25" target="FhPh060SghVVRv-6aTag-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FhPh060SghVVRv-6aTag-25" value="k8s namespace &amp;amp; 标签选择器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="FhPh060SghVVRv-6aTag-25" value="选择所有的应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="170" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FhPh060SghVVRv-6aTag-37" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FhPh060SghVVRv-6aTag-28" target="FhPh060SghVVRv-6aTag-25" edge="1">
