@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:18:31.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jBRFS4gIYt2LktVc8EFs" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:19:47.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mIYrdkwRo5yMuSZS7npX" version="20.0.4" type="github">
   <diagram id="DroYmTfxJ4gSrrLz_aU5" name="第 1 页">
     <mxGraphModel dx="1018" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AYJwS5AMs9tBULYq_kzT-2" value="保存快照状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="1020" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="AYJwS5AMs9tBULYq_kzT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;sketch=1;" edge="1" parent="1" source="AYJwS5AMs9tBULYq_kzT-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292.5" y="230" as="targetPoint" />
@@ -22,9 +19,6 @@
         </mxCell>
         <mxCell id="AYJwS5AMs9tBULYq_kzT-19" value="升级 PaaS 版本" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="30" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AYJwS5AMs9tBULYq_kzT-24" value="保存快照状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
-          <mxGeometry y="810" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AYJwS5AMs9tBULYq_kzT-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AYJwS5AMs9tBULYq_kzT-25" target="AYJwS5AMs9tBULYq_kzT-34">
           <mxGeometry relative="1" as="geometry" />
@@ -70,9 +64,6 @@
         </mxCell>
         <mxCell id="AYJwS5AMs9tBULYq_kzT-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AYJwS5AMs9tBULYq_kzT-58" source="AYJwS5AMs9tBULYq_kzT-33" target="AYJwS5AMs9tBULYq_kzT-42">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AYJwS5AMs9tBULYq_kzT-60" value="保存快照状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AYJwS5AMs9tBULYq_kzT-62" value="升级结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="510" width="120" height="40" as="geometry" />
